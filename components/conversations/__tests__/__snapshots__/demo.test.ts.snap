@@ -243,7 +243,7 @@ exports[`renders components/conversations/demo/group-sort.tsx correctly 1`] = `
         <span
           class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line ant-conversations-label"
         >
-          Conversation - 08:00:00
+          Conversation1 - 00:00:00
         </span>
       </li>
       <li
@@ -252,7 +252,7 @@ exports[`renders components/conversations/demo/group-sort.tsx correctly 1`] = `
         <span
           class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line ant-conversations-label"
         >
-          Conversation - 08:00:03
+          Conversation2 - 00:00:03
         </span>
       </li>
       <li
@@ -261,7 +261,7 @@ exports[`renders components/conversations/demo/group-sort.tsx correctly 1`] = `
         <span
           class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line ant-conversations-label"
         >
-          Conversation - 08:00:07
+          Conversation3 - 00:00:07
         </span>
       </li>
       <li
@@ -270,7 +270,7 @@ exports[`renders components/conversations/demo/group-sort.tsx correctly 1`] = `
         <span
           class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line ant-conversations-label"
         >
-          Conversation - 08:00:10
+          Conversation4 - 00:00:10
         </span>
       </li>
     </ul>
@@ -336,7 +336,7 @@ exports[`renders components/conversations/demo/group-sort.tsx correctly 1`] = `
         <span
           class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line ant-conversations-label"
         >
-          Conversation - 08:00:14
+          Conversation5 - 23:58:48
         </span>
       </li>
       <li
@@ -345,7 +345,7 @@ exports[`renders components/conversations/demo/group-sort.tsx correctly 1`] = `
         <span
           class="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line ant-conversations-label"
         >
-          Conversation - 08:00:18
+          Conversation6 - 23:58:51
         </span>
       </li>
     </ul>

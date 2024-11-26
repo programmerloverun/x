@@ -5,11 +5,11 @@ import { type GetProp, Space, theme } from 'antd';
 import React from 'react';
 
 const items: GetProp<ConversationsProps, 'items'> = Array.from({ length: 6 }).map((_, index) => {
-  const timestamp = index <= 3 ? Date.now() : Date.now() - 1000 * 60 * 60 * 24 * 2;
+  const timestamp = index <= 3 ? 1732204800000 : 1732204800000 - 60 * 60 * 24;
 
   return {
     key: `item${index + 1}`,
-    label: `Conversation - ${new Date(timestamp + index * 60 * 60).toLocaleTimeString()}`,
+    label: `Conversation${index + 1} - ${new Date(timestamp + index * 60 * 60).toLocaleTimeString()}`,
     timestamp: timestamp + index * 60,
     group: index <= 3 ? 'Today' : 'Yesterday',
   };
