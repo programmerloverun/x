@@ -467,10 +467,10 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
         class="ant-conversations-item"
       >
         <span
-          aria-label="Conversation1 - 00:00:00"
+          aria-label="Conversation 1732204800000"
           class="ant-typography ant-typography-ellipsis ant-conversations-label"
         >
-          Conversation1 - 00:00:00
+          Conversation 1732204800000
         </span>
       </li>
       <div
@@ -488,7 +488,7 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
             class="ant-tooltip-inner"
             role="tooltip"
           >
-            Conversation1 - 00:00:00
+            Conversation 1732204800000
           </div>
         </div>
       </div>
@@ -496,10 +496,10 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
         class="ant-conversations-item"
       >
         <span
-          aria-label="Conversation2 - 00:00:03"
+          aria-label="Conversation 1732204803600"
           class="ant-typography ant-typography-ellipsis ant-conversations-label"
         >
-          Conversation2 - 00:00:03
+          Conversation 1732204803600
         </span>
       </li>
       <div
@@ -517,7 +517,7 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
             class="ant-tooltip-inner"
             role="tooltip"
           >
-            Conversation2 - 00:00:03
+            Conversation 1732204803600
           </div>
         </div>
       </div>
@@ -525,10 +525,10 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
         class="ant-conversations-item"
       >
         <span
-          aria-label="Conversation3 - 00:00:07"
+          aria-label="Conversation 1732204807200"
           class="ant-typography ant-typography-ellipsis ant-conversations-label"
         >
-          Conversation3 - 00:00:07
+          Conversation 1732204807200
         </span>
       </li>
       <div
@@ -546,7 +546,7 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
             class="ant-tooltip-inner"
             role="tooltip"
           >
-            Conversation3 - 00:00:07
+            Conversation 1732204807200
           </div>
         </div>
       </div>
@@ -554,10 +554,10 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
         class="ant-conversations-item"
       >
         <span
-          aria-label="Conversation4 - 00:00:10"
+          aria-label="Conversation 1732204810800"
           class="ant-typography ant-typography-ellipsis ant-conversations-label"
         >
-          Conversation4 - 00:00:10
+          Conversation 1732204810800
         </span>
       </li>
       <div
@@ -575,7 +575,7 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
             class="ant-tooltip-inner"
             role="tooltip"
           >
-            Conversation4 - 00:00:10
+            Conversation 1732204810800
           </div>
         </div>
       </div>
@@ -640,10 +640,10 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
         class="ant-conversations-item"
       >
         <span
-          aria-label="Conversation5 - 23:58:48"
+          aria-label="Conversation 1732204728000"
           class="ant-typography ant-typography-ellipsis ant-conversations-label"
         >
-          Conversation5 - 23:58:48
+          Conversation 1732204728000
         </span>
       </li>
       <div
@@ -661,7 +661,7 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
             class="ant-tooltip-inner"
             role="tooltip"
           >
-            Conversation5 - 23:58:48
+            Conversation 1732204728000
           </div>
         </div>
       </div>
@@ -669,10 +669,10 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
         class="ant-conversations-item"
       >
         <span
-          aria-label="Conversation6 - 23:58:51"
+          aria-label="Conversation 1732204731600"
           class="ant-typography ant-typography-ellipsis ant-conversations-label"
         >
-          Conversation6 - 23:58:51
+          Conversation 1732204731600
         </span>
       </li>
       <div
@@ -690,7 +690,7 @@ exports[`renders components/conversations/demo/group-sort.tsx extend context cor
             class="ant-tooltip-inner"
             role="tooltip"
           >
-            Conversation6 - 23:58:51
+            Conversation 1732204731600
           </div>
         </div>
       </div>

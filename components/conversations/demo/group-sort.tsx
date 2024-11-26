@@ -9,8 +9,8 @@ const items: GetProp<ConversationsProps, 'items'> = Array.from({ length: 6 }).ma
 
   return {
     key: `item${index + 1}`,
-    label: `Conversation${index + 1} - ${new Date(timestamp + index * 60 * 60).toLocaleTimeString()}`,
-    timestamp: timestamp + index * 60,
+    label: `Conversation ${timestamp + index * 60 * 60}`,
+    timestamp: timestamp + index * 60 * 60,
     group: index <= 3 ? 'Today' : 'Yesterday',
   };
 });
